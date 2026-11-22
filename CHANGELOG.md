@@ -8,6 +8,8 @@
 - **New benchmark: handoff vs compaction across many chats** ([docs/HANDOFF_VS_COMPACTION.md](docs/HANDOFF_VS_COMPACTION.md)),
   with the script to rerun it on your own chats (`bench/handoff_vs_compaction.py`, subscription only). The README
   table now shows those measured results, replacing the earlier one-chat numbers and the 500k estimate.
+- **Docs:** the repo is now `claude-autoswitch-acpmh` (was `claude-autoswitch`). Old links redirect. The plugin and
+  marketplace names are unchanged, so `autoswitch-inline@claude-autoswitch` still installs.
 
 ## 0.3.7
 
