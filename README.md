@@ -39,16 +39,16 @@ macOS or Windows (see [Windows](#windows)), the Claude Code **desktop app**, and
 macOS:
 
 ```bash
-git clone https://github.com/BR1K0/claude-autoswitch.git
-cd claude-autoswitch
+git clone https://github.com/BR1K0/claude-autoswitch-acpmh.git
+cd claude-autoswitch-acpmh
 ./install.sh
 ```
 
 Windows (PowerShell, no administrator needed):
 
 ```powershell
-git clone https://github.com/BR1K0/claude-autoswitch.git
-cd claude-autoswitch
+git clone https://github.com/BR1K0/claude-autoswitch-acpmh.git
+cd claude-autoswitch-acpmh
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
